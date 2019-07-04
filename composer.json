@@ -1,6 +1,6 @@
 {
     "name": "samrm/rtl-panel",
-    "description": "Fixes the rtl languages direction issue in the panel textarea fields",
+    "description": "Fixes the RTL languages direction issue in the panel textarea fields",
     "license": "MIT",
     "authors": [
         {

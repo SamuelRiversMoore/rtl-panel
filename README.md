@@ -1,6 +1,6 @@
 # Kirby – RTL textarea fields in the panel
 
-This plugin fixes the rtl languages direction issue in the panel textarea fields
+This plugin fixes the RTL (right-to-left) languages direction issue in the panel textarea fields.
 
 <br/>
 
