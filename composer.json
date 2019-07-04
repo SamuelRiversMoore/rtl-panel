@@ -13,7 +13,7 @@
         "getkirby/composer-installer": "^1.1"
     },
     "extra": {
-        "installer-name": "trl-panel"
+        "installer-name": "rtl-panel"
     },
     "minimum-stability": "beta"
 }
