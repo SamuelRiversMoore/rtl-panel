@@ -2,6 +2,7 @@
     "name": "samrm/rtl-panel",
     "description": "Fixes the RTL languages direction issue in the panel textarea fields",
     "license": "MIT",
+    "type": "kirby-plugin",
     "authors": [
         {
             "name": "Samuel Rivers-Moore",
@@ -9,7 +10,10 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "getkirby/composer-installer": "^1.1"
     },
-    "minimum-stability": "dev"
+    "extra": {
+        "installer-name": "markdown-field"
+    },
+    "minimum-stability": "beta"
 }
